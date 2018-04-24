@@ -11,6 +11,9 @@ img {
   margin-top: -24px;
   margin-bottom: -50px;
 }
+.landing h1, .landing p {
+  color: white;
+}
 
 .landing-inner {
   padding-top: 80px;
